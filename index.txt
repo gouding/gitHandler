@@ -2,3 +2,4 @@ gogogo
 lalala
 on branch develop to do something
 stash something...
+add remote barnch
